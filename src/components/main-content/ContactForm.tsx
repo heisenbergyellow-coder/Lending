@@ -237,8 +237,7 @@ export default function ContactForm() {
                             >
                                 {isSubmitting ? 'Sending...' : 'Get Free Estimate'}
                             </button>
-                        </form
-                        >
+                        </form>
                     </div/
                     </div>
                 </div>
