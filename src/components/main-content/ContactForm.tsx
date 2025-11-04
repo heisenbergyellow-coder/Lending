@@ -237,7 +237,7 @@ export default function ContactForm() {
                                 {isSubmitting ? 'Sending...' : 'Get Free Estimate'}
                             </button>
                         </form action="https://formspree.io/f/xgvpqnre"
-  method="POST"
+  method="POST">
                 
                     </div/
                     </div>
