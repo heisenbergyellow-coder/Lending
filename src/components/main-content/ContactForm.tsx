@@ -165,8 +165,7 @@ export default function ContactForm() {
 
                     {/* Contact Form */}
                     <div className="bg-white rounded-lg shadow-lg p-4 sm:p-6 md:p-8 w-full">
-                        <form action="https://formspree.io/f/xgvpqnre"
-  method="POST" className="space-y-4 sm:space-y-6">
+                        <form onSubmit={handleSubmit} className="space-y-4 sm:space-y-6">
                             <div>
                                 <label htmlFor="name" className="block text-xs sm:text-sm font-medium text-gray-700 mb-1 sm:mb-2">
                                     Full Name *
