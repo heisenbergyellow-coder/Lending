@@ -106,7 +106,7 @@ export default function ContactForm() {
         setIsSubmitting(true);
         
         try {
-            const response = await fetch('https://formspree.io/f/xrbyyyld', {
+            const response = await fetch('https://formspree.io/f/xgvpqnre', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
@@ -238,7 +238,6 @@ export default function ContactForm() {
                                 {isSubmitting ? 'Sending...' : 'Get Free Estimate'}
                             </button>
                         </form>
-                    </div>
                     </div>
                 </div>
             </div>
