@@ -58,7 +58,7 @@ export default function Header() {
                         <FaMapMarkerAlt size={18} className="text-orange-400" />
                     </a>
                     <a 
-                        href="https://mail.google.com/mail/?view=cm&fs=1&to=cornerstone_renovation@outlook.com&su=Home%20Renovation%20Inquiry&body=Hello%20Cornerstone%20Renovation%20LLC,%0A%0AI%20am%20interested%20in%20your%20renovation%20services.%20Please%20contact%20me%20to%20discuss%20my%20project.%0A%0AThank%20you!" 
+                        href="https://mail.google.com/mail/?view=cm&fs=1&to=yevi@csrenovation.com&su=Home%20Renovation%20Inquiry&body=Hello%20Cornerstone%20Renovation%20LLC,%0A%0AI%20am%20interested%20in%20your%20renovation%20services.%20Please%20contact%20me%20to%20discuss%20my%20project.%0A%0AThank%20you!" 
                         className="flex items-center px-3 py-2 rounded-md hover:bg-gray-800/50 transition-all duration-300"
                         aria-label="Send email"
                         target="_blank"
@@ -87,7 +87,7 @@ export default function Header() {
                         <FaMapMarkerAlt size={18} className="text-orange-400" />
                     </a>
                     <a 
-                        href="mailto:cornerstone_renovation@outlook.com" 
+                        href="mailto:yevi@csrenovation.com" 
                         className="flex items-center px-3 py-2 rounded-md hover:bg-gray-800/50 transition-all duration-300"
                         aria-label="Send email"
                     >
@@ -130,7 +130,7 @@ export default function Header() {
                         <FaMapMarkerAlt size={18} className="text-orange-400" />
                     </a>
                     <a 
-                        href="mailto:cornerstone_renovation@outlook.com"
+                        href="mailto:yevi@csrenovation.com"
                         className="flex items-center px-2 py-2 rounded-md hover:bg-gray-800/50 transition-all duration-300"
                         aria-label="Send email"
                     >
