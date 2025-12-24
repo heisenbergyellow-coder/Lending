@@ -29,10 +29,7 @@ export default function Header() {
             <div className='hidden md:flex justify-between items-center max-w-7xl mx-auto h-12 sm:h-14'>
                 {/* Logo and Company Name */}
                 <div className='flex items-center gap-2 sm:gap-3'>
-                    <img src="/logo2.svg.png" alt="Cornerstone Renovation" className="w-8 h-8 sm:w-10 sm:h-10 bg-white rounded-full shadow-lg" />
-                    <div>
-                         <img src="/CSlogo.png" alt="Cornerstone Renovation" className="w-60 h-30 rounded-full" />
-                    </div>
+                    <img src="/logo2.svg.png" alt="Cornerstone Renovation" className="w-10 h-10 sm:w-12 sm:h-12 bg-white rounded-full shadow-lg" />
                 </div>
                 
                 {/* Desktop Navigation */}
