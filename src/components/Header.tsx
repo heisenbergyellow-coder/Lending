@@ -103,7 +103,7 @@ export default function Header() {
 
                 {/* Logo - Absolute Center */}
                 <div className='absolute left-1/2 transform -translate-x-1/2 flex items-center'>
-                    <img src="/logo.png" alt="Cornerstone Renovation" className="w-8 h-8 bg-white rounded-full shadow-lg" />
+                    <img src="/logo2.svg.png" alt="Cornerstone Renovation" className="w-8 h-8 bg-white rounded-full shadow-lg" />
                 </div>
 
                 {/* Icons - Right */}
