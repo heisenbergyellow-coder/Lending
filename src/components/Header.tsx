@@ -34,14 +34,20 @@ export default function Header() {
                 
                 {/* Desktop Navigation */}
                 <div className='hidden lg:flex gap-6 xl:gap-8 items-center'>
-                    <a 
+                    <div className="flex gap-3">
+                        <a 
                         href="tel:+19524658195" 
                         className="flex items-center px-3 py-2 rounded-md hover:bg-gray-800/50 transition-all duration-300"
                         aria-label="Call us"
                     >
                         <FaPhone size={18} className="text-orange-400" />
-                        (952) 465-8195
+                            <p>
+                                (952) 465-8195
+                            </p>
+                        
                     </a>
+                    </div>
+                    
                     <a 
                         href="https://maps.app.goo.gl/qiPkPwXGwAcZgNhi6" 
                         target="_blank" 
