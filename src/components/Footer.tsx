@@ -27,8 +27,8 @@ export default function Footer() {
                             <div className="space-y-1 sm:space-y-2 text-xs sm:text-sm">
                                 <p>
                                     <span className="block sm:inline">Email: </span>
-                                    <a href="mailto:cornerstone_renovation@outlook.com" className="hover:text-white transition-colors break-all">
-                                        cornerstone_renovation@outlook.com
+                                    <a href="mailto:yevi@csrenovation.com" className="hover:text-white transition-colors break-all">
+                                        yevi@csrenovation.com
                                     </a>
                                 </p>
                                 <p>
