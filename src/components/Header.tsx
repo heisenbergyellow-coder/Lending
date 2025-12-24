@@ -40,6 +40,7 @@ export default function Header() {
                         aria-label="Call us"
                     >
                         <FaPhone size={18} className="text-orange-400" />
+                        (952) 465-8195
                     </a>
                     <a 
                         href="https://maps.app.goo.gl/qiPkPwXGwAcZgNhi6" 
