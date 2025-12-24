@@ -33,7 +33,7 @@ export default function Header() {
                     <button 
                         className="hidden sm:inline bg-gradient-to-r from-white via-gray-100 to-gray-200 bg-clip-text text-transparent font-bold text-sm sm:text-base lg:text-lg tracking-wide"
                     >
-                        Cornerstone Renovation
+                         <img src="/CSlogo.png" alt="Cornerstone Renovation" className="w-30 h-8 sm:w-10 sm:h-10 rounded-full" />
                     </button>
                 </div>
                 
