@@ -95,15 +95,16 @@ export default function Header() {
             {/* Mobile Layout */}
             <div className='md:hidden relative flex items-center justify-between max-w-7xl mx-auto h-12 sm:h-14'>
                 {/* Burger Menu Button - Left */}
+                <div className='flex items-center justify-center'>
+                
+                    <img src="/logo.svg" alt="Cornerstone Renovation" className="w-8 h-8 bg-white rounded-full shadow-lg" />
+                
+                {/* Burger Menu Button - Left */}
                 <BurgerMenu 
                     isOpen={isMobileMenuOpen}
                     onToggle={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
                     onClose={() => setIsMobileMenuOpen(false)}
                 />
-
-                {/* Logo - Absolute Center */}
-                <div className='absolute left-1/2 transform -translate-x-1/2 flex items-center'>
-                    <img src="/logo2.svg.png" alt="Cornerstone Renovation" className="w-8 h-8 bg-white rounded-full shadow-lg" />
                 </div>
 
                 {/* Icons - Right */}
