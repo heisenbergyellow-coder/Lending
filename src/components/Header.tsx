@@ -97,7 +97,7 @@ export default function Header() {
                 {/* Burger Menu Button - Left */}
                 <div className='flex items-center justify-center'>
                 
-                    <img src="/logo.svg" alt="Cornerstone Renovation" className="w-8 h-8 bg-white rounded-full shadow-lg" />
+                    <img src="/logo2.svg.png" alt="Cornerstone Renovation" className="w-8 h-8 bg-white rounded-full shadow-lg" />
                 
                 {/* Burger Menu Button - Left */}
                 <BurgerMenu 
