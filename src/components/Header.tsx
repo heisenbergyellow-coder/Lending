@@ -31,7 +31,7 @@ export default function Header() {
                 <div className='flex items-center gap-2 sm:gap-3'>
                     <img src="/logo2.svg.png" alt="Cornerstone Renovation" className="w-8 h-8 sm:w-10 sm:h-10 bg-white rounded-full shadow-lg" />
                     <div>
-                         <img src="/CSlogo.png" alt="Cornerstone Renovation" className="w-60 h-30 sm:w-10 sm:h-10 rounded-full" />
+                         <img src="/CSlogo.png" alt="Cornerstone Renovation" className="w-60 h-30 rounded-full" />
                     </div>
                 </div>
                 
